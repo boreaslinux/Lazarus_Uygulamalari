@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1535575190"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fi/home/boreas/uygulamalar/katip01/lib/x86_64-linux -Fu/usr/lib/lazarus/2.0.1/components/synedit/units/x86_64-linux/gtk2 -Fu/usr/lib/lazarus/2.0.1/lcl/units/x86_64-linux/gtk2 -Fu/usr/lib/lazarus/2.0.1/lcl/units/x86_64-linux -Fu/usr/lib/lazarus/2.0.1/components/lazutils/lib/x86_64-linux -Fu/usr/lib/lazarus/2.0.1/packager/units/x86_64-linux -Fu/home/boreas/uygulamalar/katip01/ -FU/home/boreas/uygulamalar/katip01/lib/x86_64-linux/ -FE/home/boreas/uygulamalar/katip01/ -o/home/boreas/uygulamalar/katip01/katip -dLCL -dLCLgtk2 katip.lpr"/>
+</CONFIG>
